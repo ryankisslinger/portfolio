@@ -1,0 +1,4 @@
+baseURL = "http://iamryankisslinger.com/"
+languageCode = "en-us"
+title = "Ryan's Personal Space"
+theme = "basic"
